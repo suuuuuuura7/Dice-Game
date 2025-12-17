@@ -32,6 +32,3 @@ A fun and interactive two-player dice game built with **HTML, CSS, and JavaScrip
 - **CSS3** - Animations, styling, and responsive design
 - **JavaScript (ES6+)** - Game logic, dice rolling mechanics, and interactivity
 
-## 📦 Installation
-
-1. Clone this repository:
