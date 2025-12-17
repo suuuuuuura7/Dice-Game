@@ -4,7 +4,7 @@ A fun and interactive two-player dice game built with **HTML, CSS, and JavaScrip
 
 ## 🎮 Demo
 
-![Dice Game Demo](./dicegame.jpg)
+![Dice Game Demo](./dicegame.gif)
 
 ## 📖 Description
 
