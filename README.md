@@ -2,7 +2,7 @@
 
 A fun and interactive two-player dice game built with **HTML, CSS, and JavaScript**. Roll the dice, get lucky, and beat your opponent!
 
-## 🎮 Demo
+### 🎮 Demo
 
 ![Dice Game Demo](./dicegame.gif)
 
